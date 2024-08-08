@@ -1,0 +1,13 @@
+Multiplication of two numbers
+
+public class Multiplication {
+     public static void main(String[] args) {
+         int a;
+         int b;
+         int c;
+         a=5;
+         b=16;
+         c=a*b;
+        System.out.println("5*16=" +c);
+    }
+}
